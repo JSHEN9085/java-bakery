@@ -1,0 +1,4 @@
+dname=oracle.jdbc.driver.OracleDriver
+URL=jdbc:oracle:thin:@10.20.40.53:1521:oradb1 
+user=delegate 
+password=pass
